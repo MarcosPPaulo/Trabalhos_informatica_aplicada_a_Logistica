@@ -6,9 +6,9 @@ Folder containing files of Informatics Applied to Logistics
 
 
 Sonho !!
-##### ![dreams](https://sindhoteisfoz.com.br/wp-content/uploads/2023/05/melhores-paises-capa.jpg)
+####
 <p align="center">
- <img src="https://sindhoteisfoz.com.br/wp-content/uploads/2023/05/melhores-paises-capa.jpg)" width="100"/>
+ <img src="https://sindhoteisfoz.com.br/wp-content/uploads/2023/05/melhores-paises-capa.jpg)" width="300"/>
 </p>
 
 
