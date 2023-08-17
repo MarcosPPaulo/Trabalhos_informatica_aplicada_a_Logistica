@@ -15,7 +15,7 @@ Sonho !!
 Hobbies !!
 ####
 <p align="center">
- <img src="https://i0.statig.com.br/bancodeimagens/0l/rb/j1/0lrbj151fcyr2esrx5k2gpn38.jpg)" width="500"/>
+ <imgsrc="https://i0.statig.com.br/bancodeimagens/0l/rb/j1/0lrbj151fcyr2esrx5k2gpn38.jpg)" width="500"/>
 </p>
 
 Projeto !!
