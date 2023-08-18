@@ -16,7 +16,7 @@ Hobbies !!
 Viajar
 ####
 <p align="center">
- <img src="https://sindhoteisfoz.com.br/wp-content/uploads/2023/05/melhores-paises-capa.jpg)" width="500"/>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.segueviagem.com.br%2Fagente-de-viagens%2F6-competencias-de-um-bom-agente-de-viagens%2F&psig=AOvVaw3P4TC9G9pFJkWPmH8mkmin&ust=1692406238280000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJC5t9j-5IADFQAAAAAdAAAAABAD)" width="500"/>
 </p>
 
 
