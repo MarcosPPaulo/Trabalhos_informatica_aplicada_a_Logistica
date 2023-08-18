@@ -16,7 +16,7 @@ Hobbies !!
 Viajar
 ####
 <p align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frevistasegura.com.br%2Fbrasileiros-do-sudeste-lideram-planos-de-viagens-futuras%2F&psig=AOvVaw3P4TC9G9pFJkWPmH8mkmin&ust=1692406238280000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJC5t9j-5IADFQAAAAAdAAAAABAQ)" width="500"/>
+ <img src="https://carregandomalinhas.com.br/wp-content/uploads/2019/09/banner_full_arroundtheword.jpg)" width="500"/>
 </p>
 
 
